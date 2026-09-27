@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <b>900+ DSA problems solved on LeetCode</b> ·
+  <b>800+ DSA problems solved on LeetCode</b> ·
   <b>Top 10 CipherCup Performer</b> ·
   <b>Rank 96 among 13,000+ participants</b>
 </p>
